@@ -6,6 +6,6 @@ OY VE ÖTESİ APİ CRAWLER
 
 pip3 install  rich
 
-puthon3 crawler.py
+python3 crawler.py
 
 ```
